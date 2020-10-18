@@ -27,3 +27,5 @@
 
 - usaremos o banco de dados sqlite
     ```npm i typeorm sqlite3```
+
+- o typeorm serve pra gente usar o banco através o ORM
